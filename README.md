@@ -1,2 +1,2 @@
-# -30daysofCode
-HackerRank 
+# 30daysofCode
+Solutions to the #30Daysofcode on HackerRank challenge.
