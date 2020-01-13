@@ -6,13 +6,12 @@ using namespace std;
 
 int main()
 {
-    int n,result;
+    int n;
     cin >> n;
     cin.ignore(numeric_limits<streamsize>::max(), '\n');
 
     for(int i=1;i<=10;i++){
-            result = n*i;
-            cout<<n<<" x "<<i<<" = "<<result<<endl;
+        cout<<n<<" x "<<i<<" = "<<n*i<<endl;
     }
 
     return 0;
